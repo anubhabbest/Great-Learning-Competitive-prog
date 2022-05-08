@@ -6,7 +6,7 @@ public class Question1
 {
  public static void main(String []args)
  {
-	 hi="Hello"
+	 
   Scanner sc=new Scanner(System.in);
   int inp;
   ArrayList arr=new ArrayList();
